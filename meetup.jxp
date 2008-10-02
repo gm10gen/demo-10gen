@@ -1,0 +1,9 @@
+Hi, from the other file.
+
+<%
+  i = 1 + 10;
+
+  print(i);
+%>
+
+Done
